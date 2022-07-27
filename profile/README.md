@@ -2,4 +2,5 @@
 
 🙋‍♀️ kotlin study every Monday morning
 
-🌈 Book - Kotlin Cookbook
+🌈 Do It Kotlin
+🌈 Kotlin Cookbook
