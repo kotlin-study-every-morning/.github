@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ kotlin study every Monday morning
+🙋‍♀️ study every Monday morning
 
-🌈 Do It Kotlin
+🌈 Do It Kotlin<br>
 🌈 Kotlin Cookbook
