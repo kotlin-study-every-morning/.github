@@ -4,4 +4,5 @@
 
 🌈 Do It Kotlin<br>
 🌈 Kotlin Cookbook<br>
-🌈 Domain Driven Design First Steps
+🌈 Domain Driven Design First Steps<br>
+🌈 kind SQL tuning
